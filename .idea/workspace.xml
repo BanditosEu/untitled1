@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca06068d-47ef-4cda-9a0f-239de46ab953" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-debugbar" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/maximebf/debugbar" />
+      <path value="$PROJECT_DIR$/vendor/fruitcake/php-cors" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/collections" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/conditionable" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/container" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/contracts" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/http" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/macroable" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/pipeline" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/routing" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/session" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/support" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/termwind" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-ide-helper" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/bus" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/console" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/view" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/events" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/laravel/breeze" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/validation" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/translation" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+    </include_path>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2H26kbAPQF3A1yDSxDpkaHSDV3h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/xampp/xamppp/htdocs/untitled1&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.grazie&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\xamppp\htdocs\untitled1\18-forum\dev\my-project\public\thread" />
+      <recent name="C:\xampp\xamppp\htdocs\untitled1\18-forum\dev\my-project\resources\views\layouts" />
+      <recent name="C:\xampp\xamppp\htdocs\untitled1\18-forum\dev\my-project\public" />
+      <recent name="C:\xampp\xamppp\htdocs\untitled1\18-forum\dev\my-project\public\topic" />
+      <recent name="C:\xampp\xamppp\htdocs\untitled1\18-forum\dev" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Thread.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/18-forum/dev/my-project/app/Models/Thread.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.Thread.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca06068d-47ef-4cda-9a0f-239de46ab953" name="Changes" comment="" />
+      <created>1667470974790</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667470974790</updated>
+      <workItem from="1667470975988" duration="3130000" />
+      <workItem from="1667552256084" duration="634000" />
+      <workItem from="1667553058756" duration="5572000" />
+      <workItem from="1667810831572" duration="3590000" />
+      <workItem from="1667984483290" duration="595000" />
+      <workItem from="1668416417494" duration="1252000" />
+      <workItem from="1669020193076" duration="2943000" />
+      <workItem from="1669294576089" duration="648000" />
+      <workItem from="1669370558562" duration="5202000" />
+      <workItem from="1669625947440" duration="1293000" />
+      <workItem from="1669820087852" duration="1787000" />
+      <workItem from="1669971859474" duration="8678000" />
+      <workItem from="1669984734273" duration="1318000" />
+      <workItem from="1670231289892" duration="4781000" />
+      <workItem from="1670237970921" duration="2458000" />
+      <workItem from="1670243054888" duration="2912000" />
+      <workItem from="1670401032493" duration="634000" />
+      <workItem from="1670401686323" duration="5554000" />
+      <workItem from="1670417834489" duration="1220000" />
+      <workItem from="1670574574170" duration="6870000" />
+      <workItem from="1670835413683" duration="8804000" />
+      <workItem from="1671185877349" duration="2792000" />
+      <workItem from="1671443608557" duration="1826000" />
+      <workItem from="1671448940826" duration="377000" />
+      <workItem from="1671449339703" duration="2540000" />
+      <workItem from="1671612619546" duration="3654000" />
+      <workItem from="1673260898701" duration="826000" />
+      <workItem from="1674568040033" duration="597000" />
+      <workItem from="1675071220027" duration="2038000" />
+      <workItem from="1675327429665" duration="44000" />
+      <workItem from="1675329186819" duration="1861000" />
+      <workItem from="1675418904739" duration="1099000" />
+      <workItem from="1675680878368" duration="1260000" />
+      <workItem from="1676891124809" duration="1135000" />
+      <workItem from="1678270811178" duration="100000" />
+      <workItem from="1678273240542" duration="685000" />
+      <workItem from="1678453411563" duration="1028000" />
+      <workItem from="1678957689426" duration="1554000" />
+      <workItem from="1679047829035" duration="851000" />
+      <workItem from="1679051089415" duration="1864000" />
+      <workItem from="1679300446151" duration="1734000" />
+      <workItem from="1679303060037" duration="376000" />
+      <workItem from="1679304101982" duration="164000" />
+      <workItem from="1679304277372" duration="9321000" />
+      <workItem from="1679483169938" duration="6864000" />
+      <workItem from="1679559562910" duration="8413000" />
+      <workItem from="1679645451985" duration="10966000" />
+      <workItem from="1679937727579" duration="1888000" />
+      <workItem from="1680012428438" duration="727000" />
+      <workItem from="1680514252663" duration="3994000" />
+      <workItem from="1680620914126" duration="4900000" />
+      <workItem from="1680687101040" duration="2187000" />
+      <workItem from="1680689636928" duration="4165000" />
+      <workItem from="1680764843219" duration="9110000" />
+      <workItem from="1681142050419" duration="2051000" />
+      <workItem from="1681153855121" duration="925000" />
+      <workItem from="1681291288243" duration="9615000" />
+      <workItem from="1681456269985" duration="11138000" />
+      <workItem from="1681976309622" duration="11907000" />
+      <workItem from="1682063422742" duration="9565000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/18-forum/dev/my-project/app/Http/Controllers/TopicController.php</url>
+          <line>64</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
